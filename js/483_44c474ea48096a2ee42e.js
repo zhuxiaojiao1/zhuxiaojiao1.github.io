@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_1_init_react=self.webpackChunk_1_init_react||[]).push([[483],{483:(e,t,n)=>{n.r(t),n.d(t,{default:()=>i});var c=n(5893);const i=function(){return(0,c.jsx)("div",{children:"App"})}}}]);
